@@ -40,14 +40,14 @@ export default function Home() {
       </nav>
 
 			<main className={styles.main_container}>
-				<h1>Hello, I'm Gian!</h1>
+				<h1>Hello, Im Gian!</h1>
 				<pre className={styles.pre_code_container}>
 					<p className={styles.code_container}>
-						👋 I am currently pursuing a Bachelor's degree in
+						👋 I am currently pursuing a Bachelors degree in
 						Computer Science
 					</p>
 					<p className={styles.code_container}>
-						💻 I'm a Computer Science major at California State
+						💻 I am a Computer Science major at California State
 						University Stanislaus.
 					</p>
 					<p className={styles.code_container}>
